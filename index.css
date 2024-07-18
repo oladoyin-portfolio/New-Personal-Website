@@ -1,0 +1,87 @@
+body {
+    background: black;
+    color: white;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.brown {
+    color: brown;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile-img {
+    background: white;
+    width: 200px;
+    border: 3px solid rgb(7, 89, 145);
+    border-radius: 50%;
+}
+
+.title {
+    color: brown;
+}
+
+
+button {
+    width: 100px;
+    padding: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+}
+
+#linkeIn-btn {
+    background: rgb(7, 89, 145);
+    color: white;
+}
+
+
+.account-img {
+    width: 50px;
+    background: white;
+    margin-right: 30px;
+    border-radius: 5px;
+}
+
+#facebook-img {
+    width: 40px;
+}
+
+#X-logo-img {
+    height: 50px;
+}
+
+.intro {
+    text-align: start;
+}
