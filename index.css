@@ -73,12 +73,19 @@ button {
     margin: 10px;
 }
 
-.sub-intro {
+.about-intro {
+    margin-bottom: 40px;
+}
+
+.about {
+    border-bottom: 5px solid brown;
+}
+
+.interests {
     border-bottom: 5px solid brown;
 }
 
 .contacts-section {
-    background: whitesmoke;
     padding: 20px;
     margin-top: 50px;
 }
