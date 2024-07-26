@@ -63,9 +63,21 @@ button {
     margin: 10px 4px 15px 0;
 }
 
+#email-btn {
+    display: inline-flex;
+    justify-content: center;
+}
+
 #linkeIn-btn {
+    display: inline-flex;
+    justify-content: center;
     background: rgb(7, 89, 145);
     color: white;
+}
+
+#linkedIn-icon {
+    width: 15px;
+    margin-right: 5px;
 }
 
 .intro {
